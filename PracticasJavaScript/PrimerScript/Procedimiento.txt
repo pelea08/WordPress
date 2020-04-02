@@ -1,0 +1,10 @@
+En este caso he implementado Wordpress a nivel local.
+Una vez implementado vamos a administrarlo y seleccionamos la opción de apariencia.
+Editar>footer.php
+
+Y justo debajo introduces el fragmento:
+</font></span></b><a HREF="#" onClick="alert('Funciona')"><span
+style="Font-Size : 10pt"><font face="Tahoma">pincha</font></span></a><b><span style="Font-Size : 10pt">
+
+Deslizas para abajo y selecionas donde pone pincha.
+En la foto de esta carpeta te muestro el resultado.
