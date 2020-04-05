@@ -1,0 +1,7 @@
+Nos mandan crear un cliente y nos dejan hacerlo en distintos
+lenguajes.
+Debido a que en el apartado del curso no explican el como hacerlo 
+e investigado y me ha gustado la manera en la que se hace con C#.
+
+Básicamente consiste en que le pasas la dirección de la api
+y devuelva la información que se almacena.

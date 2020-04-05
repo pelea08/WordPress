@@ -2,8 +2,8 @@ En este curso que explicaron el tema de Ajax,
 no me gusto nada porque apenas explicaron el "como" a la hora de hacer
 las cosas.
 
-Tuve que buscar por internet que me costo bastante y al final acabe
-haciendo esto:
+Tuve que buscar por internet que me costo bastante y al final lo
+consegui haciendo esto:
 
 -Vas a Wordpress,carpeta theme,seleccionas tu tema y este caso
 para hacer la prueba vas al index.php y haces lo mostrado en la 
@@ -13,5 +13,5 @@ foto 1 básicamente un fondo blanco con un botón.
 quieres que haga en este caso muestra los post de las páginas
 al pinchar en el botón creado anteriormente.
 
-En resumen: AJAX sirve para que tu pinches en cosas sin que la página se actualice,
-por ejemplo Gmail se hizo en Ajax.
+En resumen: AJAX sirve para que tu pinches en cosas sin que la 
+página se actualice,por ejemplo Gmail se hizo en Ajax.
