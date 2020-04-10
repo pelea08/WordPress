@@ -1,4 +1,0 @@
-La única practica que hacen en este curso básicamente consiste en:
--Implementar una máquina virtual en red Scotch Box el cual es un repositorio en GitHub(todo esto yo en mi casa lo hice a partir de una máquina virtual en Lubuntu y en la imagen lo muestro como prueba)
--Después instalar WPDistillery que es básicamente unos archivos que tu los editas a tu gusto y te instalar el WordPress de la manera que tu le especificas de manera automática.
--Todo lo demás que explican en el curso son plugins de protección a ataques, clonaciones de bases de datos, copias de seguridad y entornos de producción en los cuales tu por ejemplos tienes www.colegio.com y te crea un subdomio llamado www.prueba.colegio.com y ahí tu haces las modificaciones que quieres sin comprometer la página "original".

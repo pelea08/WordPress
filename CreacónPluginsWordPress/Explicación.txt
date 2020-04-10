@@ -1,0 +1,4 @@
+En este caso para crear un plugin hemos de ir a la ruta C:\xampp\htdocs\wordpress\wp-content\plugins dentro creamos un archivo php.
+En este caso cree un plugin que te saluda y en caso de no tener el suficiente privilegio 
+muestra el mensaje no tienes suficientes permisos para acceder a esta página.
+Adjunto fotos mostrando todo.
