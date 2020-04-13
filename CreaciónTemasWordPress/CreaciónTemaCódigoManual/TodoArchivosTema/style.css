@@ -1,0 +1,15 @@
+/*
+Theme Name: Tema Colegio Vivas
+Theme URI: https://www.colegiovivas.com/
+Author: Ulises Gonález
+Author URI: http://ulisesgon.me
+Description: Tema realizado para el colegio vivas
+Version: 1.2
+License: GNU
+Tags: blue, no-sidebar, one-column
+Text Domain: openwebinars
+*/
+
+.articulo {
+  height: 700px;
+}

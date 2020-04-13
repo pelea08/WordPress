@@ -1,0 +1,14 @@
+En esta carpeta te muestro la creación de un tema personalizado.
+Me dio la sensación a la hora de realizar este módulo  sobre todo el tema del diseño note que esta algo desactualizado, entiendo que no te van a aprender a hacer un diseño de la leche  en unas pocas horas pero bueno ni tanto ni tan poco.
+Cogimos algunos fragmentos de código de la página oficial de Bootstrap para no tener que diseñar todo de 0.
+
+En las fotos adjuntadas se muestra lo que se visualizaría.
+
+Todo esto fue realizado en localhost y la ruta en la que se pegaría la carpeta del tema seria en wordpress/wp-content/theme
+El código escrito es HTML con PHP.
+
+Y los archivos mas “importantes” al crear el tema son: index.php,front-page.php,functions.php y header.php
+
+Tambien habla de un FrameWork que es genesis pero es de pago y recomienda unos determinados plugins y explica su funcionalidad.
+
+
