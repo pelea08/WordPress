@@ -1,0 +1,17 @@
+/*
+Theme Name: AngularJS Colegio Vivas
+Theme URI: http://www.github.com/jarcos/angular-spa
+Description: Tema  usando AngularJS y WordPress REST API para Colegio Vivas
+Author: Ulises Gonzalez
+Author URI: http://www.ulises.es
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+/* HTML 5*/
+header, article, footer, section, nav{
+	display:block;
+}
+.clear{
+	clear:both;
+}

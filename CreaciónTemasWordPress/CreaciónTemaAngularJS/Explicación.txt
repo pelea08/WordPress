@@ -1,0 +1,7 @@
+Este es un tema realizado mediante Angular JS y Reast Api de WordPress.
+
+Si vemos el resultado, donde pone Datos Coronavirus es un post que apunta a una dirección de un post de Twitter embebido del Ministerio de sanidad sobre el Coronavirus.
+Galería es un post que consta de 3 imágenes de coches diferentes.
+Y entrada 2,3,4 y ¡Hola, mundo! son unas entradas de ejemplo que he creado.
+
+Para probar esto hay que copiar la carpeta archivos tema JS a wordpress/wp-content/themes y copiarlo ahí.
